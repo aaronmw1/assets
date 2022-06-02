@@ -1,0 +1,54 @@
+{
+    "name": "Candydex",
+    "type": "POLYGON",
+    "symbol": "CANDYDEX",
+    "decimals": 9,
+    "website": "https://candydex.finance/",
+    "description": "Candydex is a unique decentralized cryptocurrency exchange platform that supports multiple networks, combining a state-of-the-art trading platform, to build a platform in a fair, open, confidential, and secure manner. IT aims to provide users with a fair, open, confidential, and secure platform.
+Candydex smart contract is a key to ensuring all transactions going on the platform are carried out transparently.",
+    "explorer": "https://polygonscan.com/token/0xabe1a652cbc6eb1782b5de4e800f8bf714aaf5d0",
+    "status": "active",
+    "id": "0xabE1a652CbC6eB1782B5De4E800f8bf714AaF5D0",
+    "links": [
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/candydex/"
+        },
+        {
+            "name": "coingecko",
+            "url":
+        },
+        {
+            "name": "github",
+            "url":
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/vAe4zvY"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/candydex"
+        },
+        {
+            "name": "facebook",
+            "url":
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/CandyDex_Officiall"
+        },
+        {
+            "name": "medium",
+            "url": "https://medium.com/@candydex"
+        },
+        {
+            "name": "email",
+            "url":
+        },
+        {
+            "name": "linkedin",
+            "url": 
+        }
+    ]
+} 
