@@ -1,0 +1,34 @@
+{
+    "name": "Candydexe",
+    "symbol": "CANDYDEX",
+    "type": "MATIC",
+    "decimals": 9,
+    "description": "CandyDex  is a multi-chain, user-friendly, decentralised exchange (DEX) aggregator or a cryptocurrency trading platform on DeFi. It allows all users to swiftly and simply execute transfers between the major cryptocurrencies and tokens while taking advantage of the best rates available from all cryptocurrency exchanges.We currently support cross-chain swaps of over 1500 tokens from blockchains such as Ethereum(ETH), Binance Chain (BNB), Polygon(MATIC), Avalanche(AVAX-C),USDT(TRON) and Fantom(FTM)",
+    "website": "https://candydex.finance/",
+    "explorer": "https://polygonscan.com/token/0xabE1a652CbC6eB1782B5De4E800f8bf714AaF5D0",
+    "status": "active",
+    "id": "0xabE1a652CbC6eB1782B5De4E800f8bf714AaF5D0",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/CandyDex_Officiall"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/candydex"
+        },
+        {
+            "name": "reddit",
+            "url": ""
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/candydex/"
+        },
+        {
+            "name": "medium",
+            "url": "https://medium.com/@candydex"
+        }
+    
+    ]
+} 
